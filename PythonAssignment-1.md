@@ -1,21 +1,43 @@
 ## Assignment Part-1
+
 Q1. Why do we call Python as a general purpose and high-level programming language?
+
++ it is not specialized for any particular problem and used in variety of domains to program
++ easy to beginners. less code compare to other programming languages
 
 Q2. Why is Python called a dynamically typed language?
 
+* no need mention type of variable
+
 Q3. List some pros and cons of Python programming language?
+
++ pros:  huge libraries, easy to pick, flexible to can pick any job role in it
++ cons: slow , high memory consumption
 
 Q4. In what all domains can we use Python?
 
++ web development, gaming, big data
+
 Q5. What are variable and how can we declare them?
+
++ just type the variable name and assign the value
++ name = 'srinivas'
 
 Q6. How can we take an input from the user in Python?
 
++ by using input function(method)
++ name = input('enter your name: ')
+
 Q7. What is the default datatype of the value that has been taken as an input using input() function?
+
++ string
 
 Q8. What is type casting?
 
++ converting data type from string to integer or vise-versa
+
 Q9. Can we take more than one input from the user using single input() function? If yes, how? If no, why?
+
 
 Q10. What are keywords?
 
@@ -30,6 +52,7 @@ Q14. What are operators in Python?
 Q15. What is difference between / and // operators?
 
 Q16. Write a code that gives following as an output.
+
 ```
 iNeuroniNeuroniNeuroniNeuron
 ```
@@ -39,6 +62,7 @@ Q17. Write a code to take a number as an input from the user and check if the nu
 Q18. What are boolean operator?
 
 Q19. What will the output of the following?
+
 ```
 1 or 0
 
@@ -56,20 +80,19 @@ Q21. What is use of 'if', 'elif' and 'else' keywords?
 Q22. Write a code to take the age of person as an input and if age >= 18 display "I can vote". If age is < 18 display "I can't vote".
 
 Q23. Write a code that displays the sum of all the even numbers from the given list.
+
 ```
 numbers = [12, 75, 150, 180, 145, 525, 50]
 ```
-
 
 Q24. Write a code to take 3 numbers as an input from the user and display the greatest no as output.
 
 Q25. Write a program to display only those numbers from a list that satisfy the following conditions
 
 - The number must be divisible by five
-
 - If the number is greater than 150, then skip it and move to the next number
-
 - If the number is greater than 500, then stop the loop
+
 ```
 numbers = [12, 75, 150, 180, 145, 525, 50]
 ```

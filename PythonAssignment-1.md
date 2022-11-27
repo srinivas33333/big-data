@@ -128,7 +128,7 @@ print(sum)
 Q24. Write a code to take 3 numbers as an input from the user and display the greatest no as output.
 
 ```python
-nums = input('please enter three numbers by maintaining space to give largest among three')
+nums = input('please enter three numbers by maintaining space to give largest among three').split()
 print(max(nums))
 ```
 

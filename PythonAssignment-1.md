@@ -151,3 +151,29 @@ for(x in numbers)
    break
 
 ```
+Q26. What is a string? How can we declare string in Python?
+
++ a list of characters, var1 = 'srinu'
+
+Q27. How can we access the string using its index?
+
+```python-repl
+var1 = 'srinivas'
+print(var1[1])
+```
+
+Q28. Write a code to get the desired output of the following
+
+```python
+string = "Big Data iNeuron"
+print(string[10:])
+desired_output = "iNeuron"
+```
+
+Q29. Write a code to get the desired output of the following
+
+```python
+string = "Big Data iNeuron"
+desired_output = "norueNi"
+print( string[-1:-(len('iNeuron')+1):-1] )
+```
